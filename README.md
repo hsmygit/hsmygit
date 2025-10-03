@@ -1,7 +1,21 @@
-# 👋 Welcome to My GitHub  
+<!-- 헤더 애니메이션 -->
+<div align="center">
+  
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=0:6A82FB,100:FC5C7D&height=200&section=header&text=Welcome%20to%20My%20GitHub!&fontSize=40&fontColor=ffffff&animation=fadeIn)
+
+</div>
+
+---
+
+## 👋 About Me  
 
 안녕하세요! 백엔드 개발을 공부하고 있는 **hsmygit** 입니다.  
-꾸준히 배우고 기록하면서 성장하는 것을 목표로 하고 있습니다. 🚀  
+꾸준히 배우고 성장하는 것을 목표로 하고 있습니다. 🚀  
+
+<!-- 글씨 애니메이션 -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6A82FB&center=true&vCenter=true&width=435&lines=Backend+Developer+in+Progress;Always+Learning+New+Things;Growing+Day+by+Day+🚀"/>
+</p>
 
 ---
 ## 🔧 Tech Stack
