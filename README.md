@@ -13,9 +13,9 @@
 ## 🏆 Prize & Awards  
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6A82FB,100:FC5C7D&height=40&text=🥇%202024%20캡스톤%20아이디어%20경진대회%20최우수상&fontSize=14&fontColor=ffffff"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6A82FB,100:FC5C7D&height=50&text=🥇%202024%20캡스톤%20아이디어%20경진대회%20최우수상&fontSize=14&fontColor=ffffff"/>
   <br/>
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:20C997,100:2DD4BF&height=40&text=🏅%202025%20RealTon(해커톤)%20울산광역시의회%20의장상&fontSize=14&fontColor=ffffff"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:20C997,100:2DD4BF&height=50&text=🏅%202025%20RealTon(해커톤)%20울산광역시의회%20의장상&fontSize=14&fontColor=ffffff"/>
 </p>
 
 ---
