@@ -22,7 +22,8 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/2024-캡스톤%20아이디어%20경진대회%20최우수상-6A82FB?style=for-the-badge&logo=google-scholar&logoColor=white"/>
-  <img src="https://img.shields.io/badge/2025-RealTon(해커톤)%20울산광역시의회%20의장상-20C997?style=for-the-badge&logo=hackaday&logoColor=whit
+  <img src="https://img.shields.io/badge/2025-RealTon(해커톤)%20울산광역시의회%20의장상-20C997?style=for-the-badge&logo=hackaday&logoColor=white"/>
+</p>
 
 ---
 ## 🔧 Tech Stack
