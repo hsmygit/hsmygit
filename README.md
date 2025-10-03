@@ -22,20 +22,6 @@
 
 ---
 
-## 🌱 About Me  
-- 💻 백엔드 개발 학습 중  
-- 📝 TIL, 블로그 작성 습관 들이기  
-- 🤝 오픈소스 & 협업 경험 쌓기  
-
----
-
 ## 📫 Connect with Me  
-<a href="mailto:your_email@example.com">
+<a href="mailto:rlagustn1313@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://velog.io/@your_id">
-  <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white"/>
-</a>
-<a href="https://www.linkedin.com/in/your_id/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
-</a>
