@@ -13,7 +13,7 @@
 ## 🏆 Prize & Awards  
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6A82FB,80:FC5C7D&height=50&text=🥇%202024%20캡스톤%20아이디어%20경진대회%20최우수상&fontSize=14&fontColor=ffffff"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6A82FB,20:FC5C7D&height=50&text=🥇%202024%20캡스톤%20아이디어%20경진대회%20최우수상&fontSize=14&fontColor=ffffff"/>
   <br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:20C997,100:2DD4BF&height=50&text=🏅%202025%20RealTon(해커톤)%20울산광역시의회%20의장상&fontSize=14&fontColor=ffffff"/>
 </p>
@@ -36,7 +36,7 @@
 ---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hsmygit&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)  
-![hsmygit's GitHub stats](https://<your-vercel-app>.vercel.app/api?username=hsmygit&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hsmygit&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
