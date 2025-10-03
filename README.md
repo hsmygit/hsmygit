@@ -24,6 +24,26 @@
   <img src="https://img.shields.io/badge/2024-캡스톤%20아이디어%20경진대회%20최우수상-6A82FB?style=for-the-badge&logo=google-scholar&logoColor=white"/>
   <img src="https://img.shields.io/badge/2025-RealTon(해커톤)%20울산광역시의회%20의장상-20C997?style=for-the-badge&logo=hackaday&logoColor=white"/>
 </p>
+## 🏆 Prize & Awards
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:6A82FB,100:FC5C7D&height=100&text=🥇%202024%20캡스톤%20아이디어%20경진대회%20최우수상&fontSize=22&fontColor=ffffff&fontAlign=50&fontAlignY=55"/>
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:20C997,100:2DD4BF&height=100&text=🏅%202025%20RealTon(해커톤)%20울산광역시의회%20의장상&fontSize=22&fontColor=ffffff&fontAlign=50&fontAlignY=55"/>
+</p>
+## 🏆 Prize & Awards
+
+| 연도 | 수상 내역 |
+|:---:|:--|
+| 🥇 **2024** | 캡스톤 아이디어 경진대회 **최우수상** |
+| 🏅 **2025** | RealTon(해커톤) **울산광역시의회 의장상** |
+## 🏆 Prize & Awards
+
+<p align="center">
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=800&color=6A82FB&center=true&vCenter=true&width=900&lines=🥇+2024+캡스톤+아이디어+경진대회+최우수상;🏅+2025+RealTon(해커톤)+울산광역시의회+의장상"
+    alt="Awards typing animation"
+  />
+</p>
 
 ---
 ## 🔧 Tech Stack
