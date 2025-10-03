@@ -19,8 +19,8 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:20C997,100:2DD4BF&height=60&text=🏅%202025%20RealTon(해커톤)%20울산광역시의회%20의장상&fontSize=16&fontColor=ffffff"/>
 </p>
 
-
 ---
+
 ## 🔧 Tech Stack  
 
 <p align="center">
