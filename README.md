@@ -5,18 +5,11 @@
 
 </div>
 
----
-
-## 👋 About Me  
-
-안녕하세요! 백엔드 개발을 공부하고 있습니다!
-
 <!-- 글씨 애니메이션 -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6A82FB&center=true&vCenter=true&width=435&lines=Backend+Developer+in+Progress;Always+Learning+New+Things;Growing+Day+by+Day"/>
 </p>
 
----
 
 ## 🏆 Prize & Awards  
 
