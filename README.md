@@ -38,6 +38,7 @@
 
 ---
 
-## 📫 Connect with Me  
-<a href="mailto:rlagustn1313@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/>
+## 🏆 Baekjoon Online Judge
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rlagustn0709)](https://solved.ac/rlagustn0709/)
+[![mazandi profile](http://mazandi.herokuapp.com/api?handle=rlagustn0709&theme=warm)](https://solved.ac/rlagustn0709/)
+
