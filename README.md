@@ -46,7 +46,6 @@
 
 ---
 
-## 🏆 Baekjoon Online Judge
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rlagustn0709)](https://solved.ac/rlagustn0709/)
 [![mazandi profile](http://mazandi.herokuapp.com/api?handle=rlagustn0709&theme=warm)](https://solved.ac/rlagustn0709/)
 
