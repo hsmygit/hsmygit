@@ -16,6 +16,8 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6A82FB,100:FC5C7D&height=50&text=🥇%202024%20캡스톤%20아이디어%20경진대회%20최우수상&fontSize=14&fontColor=ffffff"/>
   <br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:20C997,100:2DD4BF&height=50&text=🏅%202025%20RealTon(해커톤)%20울산광역시의회%20의장상&fontSize=14&fontColor=ffffff"/>
+  <br/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:38BDF8,100:60A5FA&height=50&text=🥈%202025%20UoU%20창의적%20종합설계%20경진대회%20우수상&fontSize=14&fontColor=ffffff"/>
 </p>
 
 ---
