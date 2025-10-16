@@ -19,7 +19,7 @@
   <br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:38BDF8,100:60A5FA&height=50&text=🥈%202025%20UoU%20창의적%20종합설계%20경진대회%20우수상&fontSize=14&fontColor=ffffff"/>
   <br/>
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:F59E0B,100:FBBF24&height=50&text=🥇%202025%20AI%26의료공학%20프로젝트%20공모전%20최우수상&fontSize=14&fontColor=ffffff"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6A82FB,100:FBBF24&height=50&text=🥇%202025%20AI%26의료공학%20프로젝트%20공모전%20최우수상&fontSize=14&fontColor=ffffff"/>
 </p>
 
 ---
