@@ -10,6 +10,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6A82FB&center=true&vCenter=true&width=435&lines=Backend+Developer+in+Progress;Always+Learning+New+Things;Growing+Day+by+Day"/>
 </p>
 
+---
+
 ## 🏆 Prize & Awards  
 
 <p align="center">
