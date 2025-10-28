@@ -22,8 +22,11 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:38BDF8,100:60A5FA&height=50&text=🥈%202025%20UoU%20창의적%20종합설계%20경진대회%20우수상&fontSize=14&fontColor=ffffff"/>
   <br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:F59E0B,100:FFD700&height=50&text=%F0%9F%A5%87%202025%20AI%EF%BC%86%EC%9D%98%EB%A3%8C%EA%B3%B5%ED%95%99%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EA%B3%B5%EB%AA%A8%EC%A0%84%20%EC%B5%9C%EC%9A%B0%EC%88%98%EC%83%81&fontSize=14&fontColor=ffffff&cacheBust=2"/>
-
+  <br/>
+  <!-- SW중심대학 수상 내역 (자동 업데이트 버전) -->
+  <img src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/<YOUR_USER>/<YOUR_REPO>/main/awards/swcenter-2025.json&cacheSeconds=60">
 </p>
+
 
 ---
 
